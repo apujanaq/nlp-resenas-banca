@@ -1,0 +1,29 @@
+# Entorno virtual
+.venv/
+
+# Datos crudos (124 MB — no van a GitHub)
+data/
+!data/.gitkeep
+
+# Artefactos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Modelos descargados (transformers cache)
+models/
+*.bin
+*.pt
+*.safetensors
+
+# Variables de entorno
+.env

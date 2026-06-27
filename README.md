@@ -1,5 +1,6 @@
 # Análisis NLP de reseñas de clientes bancarios — Trustpilot UK
 
+Caso práctico del Módulo 6 (Deep Learning & NLP) del MSc en Data Science & IA — Evolve Academy.
 Análisis de sentimiento y topic modeling sobre reseñas públicas de Trustpilot UK del sector bancario. Se compara **HSBC** contra un pool de 9 competidores para identificar en qué temas la experiencia del cliente es mejor o peor que el sector, y se traducen los hallazgos en recomendaciones para dirección.
 
 ## Hallazgos principales

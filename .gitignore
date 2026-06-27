@@ -2,8 +2,10 @@
 .venv/
 
 # Datos crudos (124 MB — no van a GitHub)
-data/
-!data/.gitkeep
+data/trustpilot-reviews-123k.csv
+
+# Datos procesados — sí van a GitHub (solo el subconjunto de trabajo, 2 MB)
+!data/processed/
 
 # Artefactos de Python
 __pycache__/
@@ -27,3 +29,7 @@ models/
 
 # Variables de entorno
 .env
+
+# Documentos internos — no para el repositorio público
+CLAUDE.md
+notebooks/presentación_nlp.ipynb
